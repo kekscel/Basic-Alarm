@@ -1,0 +1,10 @@
+C:\Users\Ramazan\Desktop\C#\Alarm\AlarmApp\AlarmApp\bin\Debug\AlarmApp.exe.config
+C:\Users\Ramazan\Desktop\C#\Alarm\AlarmApp\AlarmApp\bin\Debug\AlarmApp.exe
+C:\Users\Ramazan\Desktop\C#\Alarm\AlarmApp\AlarmApp\bin\Debug\AlarmApp.pdb
+C:\Users\Ramazan\Desktop\C#\Alarm\AlarmApp\AlarmApp\obj\Debug\AlarmApp.csproj.AssemblyReference.cache
+C:\Users\Ramazan\Desktop\C#\Alarm\AlarmApp\AlarmApp\obj\Debug\AlarmApp.AlarmForm.resources
+C:\Users\Ramazan\Desktop\C#\Alarm\AlarmApp\AlarmApp\obj\Debug\AlarmApp.Properties.Resources.resources
+C:\Users\Ramazan\Desktop\C#\Alarm\AlarmApp\AlarmApp\obj\Debug\AlarmApp.csproj.GenerateResource.cache
+C:\Users\Ramazan\Desktop\C#\Alarm\AlarmApp\AlarmApp\obj\Debug\AlarmApp.csproj.CoreCompileInputs.cache
+C:\Users\Ramazan\Desktop\C#\Alarm\AlarmApp\AlarmApp\obj\Debug\AlarmApp.exe
+C:\Users\Ramazan\Desktop\C#\Alarm\AlarmApp\AlarmApp\obj\Debug\AlarmApp.pdb
